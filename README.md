@@ -25,17 +25,4 @@ Pegasus is a modern web application designed to help students manage their acade
 
 -   Django
 -   Django REST Framework
--   SQLite (Development)
--   PostgreSQL (Production)
-
-## Getting Started
-
-### Prerequisites
-
--   Python 3.9+
--   Node.js 16+
--   npm or yarn
-
-### Backend Setup
-
-1. Clone the repository
+-   MySQL
